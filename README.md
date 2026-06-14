@@ -63,3 +63,4 @@ Include the .git directory in the archive:
 - `-l, --level int`: Compression level: from 1 (fast) to 9 (best) (default 7)
 - `--i, --ignore strings`: Additional directories to ignore (can be repeated)
 - `--git`: Include the .git directory in the archive
+- `-r, --recursive`: Apply the command to all direct subfolders
